@@ -2,11 +2,11 @@
 
 This repository contains a visual chart of time and space complexity for common programming algorithms, sourced from [LeetCode](https://leetcode.com/). The chart is useful for understanding the efficiency of algorithms and preparing for coding interviews.
 
-Time complexity (Big O) cheat sheet
+**Time complexity (Big O) cheat sheet**
 
 ![LeetCode Complexity Chart](big_o.png)
 
--
+**Sorting Algorithm Complexity**
 
 ![LeetCode Complexity Chart](sorting.png)
 
