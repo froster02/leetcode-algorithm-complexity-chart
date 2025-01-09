@@ -18,7 +18,7 @@ This repository contains a visual chart of time and space complexity for common 
 - Use this as a quick reference during coding interviews or algorithm practice.
 
 ## Credit
-- The complexity chart is sourced from [LeetCode](https://leetcode.com/), a popular platform for practicing coding interview questions and learning algorithms.
+- The complexity chart is sourced from - The complexity chart is sourced from [LeetCode's Algorithm Complexity Cheatsheet](https://leetcode.com/explore/interview/card/cheatsheets/720/resources/4725/), a comprehensive resource for algorithm analysis and coding interview preparation., a popular platform for practicing coding interview questions and learning algorithms.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
